@@ -1,0 +1,65 @@
+.navbar-nav a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    font-family: 'Signika Negative';
+    font-weight: 600;
+}
+
+.navbar-nav a:focus {
+    color: orange;
+}
+
+.navbar-nav a.active {
+    color: white;
+}
+
+.navbar-nav a:hover {
+    color: orange;
+    border-radius: 10px;
+    text-decoration: underline;
+}
+
+.dropdown-item:active {
+    background-color: whitesmoke;
+}
+
+.logoName {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 900;
+    position: relative;
+    left: 4px;
+}
+
+.user-icon {
+    font-size: 30px;
+
+}
+
+.cart-icon {
+    font-size: 30px;
+}
+
+#user-icon-btn {
+    padding: 0;
+    background-color: transparent;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+
+.popover-ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.popover-ul li {
+    padding: 5px;
+}
+
+.popover-link{
+    text-decoration: none;
+    cursor: pointer;
+}

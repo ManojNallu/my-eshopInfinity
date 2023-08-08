@@ -1,0 +1,53 @@
+.product-details-container {
+    margin: 15px 25px 25px 25px;
+}
+
+.product-image{
+    height: 85vh;
+}   
+
+.label {
+    font-size: 0.8rem;
+    display: block;
+}
+
+.product-data {
+    font-weight: 500;
+}
+
+.separator {
+    margin: 10px 0 10px 0;
+}
+
+.dv-star-rating {
+    font-size: 2rem;
+}
+
+.stock-selector {
+    width: 5rem;
+    margin: 10px 0 0 0;
+}
+
+.discount {
+   color: #CC0C39;
+   font-size: 1.5rem;
+}
+
+.final-price {
+    font-size: 1.5rem;
+}
+
+.actual-price {
+    font-size: 0.8rem;
+    color: grey;
+}
+
+.add-cart-btn {
+    margin-top: 30px;
+}
+
+
+/*
+
+
+*/

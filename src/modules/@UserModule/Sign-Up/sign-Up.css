@@ -1,0 +1,24 @@
+.form-row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+.signInform {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    padding-top: 10px;
+    font-family: 'Signika Negative';
+}
+
+.error {
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 16px;
+    color: #dc3545;
+}

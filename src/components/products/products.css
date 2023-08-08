@@ -1,0 +1,14 @@
+.products {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+    padding: 10px;
+    height: 50vh;
+}
+.card-img-top{
+    height:30vh;
+}
+.card-text{
+    height:20vh;
+}
